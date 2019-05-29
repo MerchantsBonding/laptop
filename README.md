@@ -1,3 +1,10 @@
+NOTE: Now deprecated
+======
+
+*This script is deprecated in favor of the laptop-setup.sh script in https://github.com/MerchantsBonding/playbook*
+
+
+
 Laptop
 ======
 
